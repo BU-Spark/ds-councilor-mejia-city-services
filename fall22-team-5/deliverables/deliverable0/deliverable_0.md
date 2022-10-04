@@ -1,0 +1,10 @@
+- What is the project focus/overall goal?
+  - a
+- What type of data will you collect or be analyzing?
+  - a
+- What are potential limitations of the project?
+  - a
+- Why is this project important or Why did you choose this project?
+  - a
+- What is your team’s next steps? (include action items/tasks)
+  - a

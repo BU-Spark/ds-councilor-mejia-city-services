@@ -1,4 +1,4 @@
-# Question 3
+# Questions to answer
 
 ### 3. Where are the city’s economic development licenses? Which communities are benefitting? Which communities are being left out?
 

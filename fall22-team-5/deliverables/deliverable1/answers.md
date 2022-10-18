@@ -6,7 +6,17 @@
 
 ### 1. Where did business assistance go during the pandemic? What were the demographic profiles of the communities where the businesses were located?
 
-#### Answered by:
+#### Answered by: Amy
+
+- In the Demographics Analysis Jupyter Notebook, we analyzed different neighborhoods in Boston as well as their demographic makeups.
+- We first analyzed each of the 23 neighborhoods in Boston and visualized their race distribution in a bar chart. With this information, we could easily observe the diversity of each neighborhood, and the most prominent races in their populations. For instance, a majority of Brighton's population idenitifies as "White alone," Dorchester has more residents that identify as "Black or African American alone" compared to the other race groups, and nearly half of East Boston's population identifies as "Hispanic or Latino."
+- We then analyzed each race indentifier to see each of their distributions across the 23 neighborhoods. For instance, we saw that those indentifying as "White alone" were almost equally distributed amongst the neighborhoods, compared to those indentifying as "Hispanic or Latino," which are most concentrated in East Boston, Dorchester, and Roxbury.
+- As we continue our analysis, we must also consider the significant difference in populations between the neighborhoods, and take that into account.
+- We will be using this analysis to identify which neighborhoods have been receiving the most relief and/or business licenses. Afterwards, we will be able to determine if these benefits are being equitably distributed.
+- For us to make this conclusion, we must answer these questions first, which may be answered by the client:
+	- Where are the equity communities? 
+	- Where was the funding intended to go? Is this based on demographic makeup?
+	- What is the minimum threshold that must be reached in order to conclude that the city's equity goals can be achieved?
 
 
 ### 3. Where are the city’s economic development licenses? Which communities are benefitting? Which communities are being left out?
@@ -25,5 +35,5 @@
 	- Look further into Cannabis dataset: map out different application statuses, and the split of facilities seeking Boston Equity Program and where they arre respectively located, map out different types of Marijuana Licenses.
 
 - Based on capital budget analysis by categories, we found Boston City spent tremendous amount on education and public work. 
-- Based on community, Charlestown seems to be benefit heavily from it for public work and education. Other than Charlestown, Chinatown and Downtown areas gain a lot of city fundings. Anf fundings dramatically decreases for other communities especially rural areas.
+- Based on community, Charlestown seems to be benefit heavily from it for public work and education. Other than Charlestown, Chinatown and Downtown areas gain a lot of city fundings. And fundings dramatically decreases for other communities especially rural areas.
 - The estimation for the 2025 budgets skyrocketed and possibly due to inflation from the pandemic.

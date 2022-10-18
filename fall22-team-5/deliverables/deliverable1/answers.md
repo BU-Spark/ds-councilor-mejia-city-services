@@ -1,6 +1,7 @@
 # Team Report for Deliverable 1
 
 [Link to repo](https://github.com/BU-Spark/ds-councilor-mejia-city-services/tree/team-5)
+
 [Refined Goals](https://github.com/BU-Spark/ds-councilor-mejia-city-services/blob/team-5/fall22-team-5/deliverables/deliverable1/updated_project_scope.md)
 
 ### 1. Where did business assistance go during the pandemic? What were the demographic profiles of the communities where the businesses were located?

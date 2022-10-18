@@ -2,6 +2,8 @@
 
 ### 3. Where are the city’s economic development licenses? Which communities are benefitting? Which communities are being left out?
 
+#### Answered by: Rithvik, Haowei
+
 - Looking at the Business licenses Jupyter Notebook, we are analyzing food, alcohol, cannabis and general licenses in the GBA.
 - In addition, take note of the map displayed that shows the locations for each of those licenses. Red points indicate general licenses, food indicates food, yellow indicates alcohol and lime indicates cannabis. The general licenses overlap with many of the specific licenses. From the map, you can see that many of the licenses are concentrated around the city center of Boston and become more sparse the further away they are from the center.
 - As for the number of licenses per city, in each dataset Boston, Dorchester and East Boston have some of the highest amounts of licenses, while Hyde Park, Chestnut Hill and Mattapan have some of the lowest amounts of licenses. It's hard to say whether this gap is due to the difference in population, population density or difference in funding given the limits current dataset, but once we start to merge this information with some of the other provided datasets we may find a clearer reason as to why this is the case.

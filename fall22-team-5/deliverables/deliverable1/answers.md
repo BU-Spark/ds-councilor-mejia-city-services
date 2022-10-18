@@ -1,4 +1,8 @@
-# Questions to answer
+# Report on Questions
+
+### 1. Where did business assistance go during the pandemic? What were the demographic profiles of the communities where the businesses were located?
+
+#### Answered by: 
 
 ### 3. Where are the city’s economic development licenses? Which communities are benefitting? Which communities are being left out?
 
@@ -13,7 +17,7 @@
 	- How do business licenses compare by different "Doing Business As" names in different cities? Do certain businesses dominate certain cities?
 	- How do opening and closing times compare across different cities? Does that impact the number of businesses in that area?
 	- How are businesses distributed by license category or type?
-	- Look further into Cannabis dataset: map out different application statuses, and the split of facilities seeking Boston Equity Program and where they arre respectively located, map out different types of Marijuana Licenses.
+	- Look further into Cannabis dataset: map out different application statuses, and the split of facilities seeking Boston Equity Program and where they are respectively located, map out different types of Marijuana Licenses.
 
 - Based on capital budget analysis by categories, we found Boston City spent tremendous amount on education and public work. 
 - Based on community, Charlestown seems to be benefit heavily from it for public work and education. Other than Charlestown, Chinatown and Downtown areas gain a lot of city fundings. Anf fundings dramatically decreases for other communities especially rural areas.

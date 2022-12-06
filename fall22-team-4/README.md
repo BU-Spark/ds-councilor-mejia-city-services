@@ -25,7 +25,7 @@ This project has significant social meaning, since equality seeks to make everyo
    
    * d) plot maps(plot separate map of one attribute first, and then filter a certain attribute to add layer to the base map)
    
-
+File descriptions:
 
 
 

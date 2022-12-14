@@ -1,6 +1,7 @@
-# TEMPLATE-base-repo
+# Team 4
 
-# Add Users
-To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
+# We are team 4, please check our team 4 dev branch! Our team 4 repo contains our final report, base project presentation slides and extention project presentation slides. 
 
-All Pull Requests must follow the Pull Request Template, with a title formatted like such `[Project Name]: <Descriptive Title>`
+# Team Members: Yi Xiang, Yichen Wang, Di Kang, Dongyue Xu
+
+

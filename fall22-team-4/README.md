@@ -8,8 +8,11 @@
 - some other files description:
 
 Fund summary per neighborhood.xlsx: summary statistics of business fund per license category in each neighborhood, I use excel pivot table to aggregate those statistics
+
 licenses summary group by neighborhood.xlsx: summary statistics of business license in each neighborhood, I use excel pivot table to aggregate those statistics
+
 RRF_funds_summary and analysis.xlsx: summary of rental assistance fund of individual applicant in each neighborhood, I use excel pivot table to aggregate those statistics
+
 boston-neighborhood-summary and analysis.xlsx: summary statistics of demographic profiles such as race, housing size, income in each neighborhood, I use excel pivot table to aggregate those statistics
 
 RRF.ipynb:

@@ -1,6 +1,6 @@
-## We are Team 1
+#Team 1
 
-Our members are Min Han, Neeraja Mehta and Ruiling Zhang
+We are Team 1 and our members are Min Han, Neeraja Mehta and Ruiling Zhang
 You can find our codes and reports for each deliverable in each folders.
 
 [Deliverable0](https://github.com/minnnh/ds-councilor-mejia-city-services/tree/team1/fall22-team-1/deliverable0) 

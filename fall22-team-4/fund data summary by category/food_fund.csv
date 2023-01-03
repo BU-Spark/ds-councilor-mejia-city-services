@@ -1,0 +1,97 @@
+business_name,DBAName,Address,CITY,State,ZIP,LICSTATUS,LICENSECAT,DESCRIPT,LicenseAddDtTm,dayphn,Property_ID,Latitude,Longitude,Neighborhood
+Achilitos Taqueria,,160 Chestnut Hill,Brighton,MA,02135,Active,FT,Eating & Drinking w/ Take Out,2020-08-27 11:57:08,10000000000,408551.0,0.0,0.0,Jamaica Plain
+Achilitos Taqueria,,38 Hyde Park,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2018-01-24 11:26:17,16179875465,352202.0,0.0,0.0,Jamaica Plain
+Americano Espresso Bar,,155 Meridian,East Boston,MA,02128,Active,FT,Eating & Drinking w/ Take Out,2007-02-13 08:24:51,16175938079,94405.0,42.373853,-71.038885,East Boston
+Athan's European Bakery,,407 Washington,Brighton,MA,02135,Active,FS,Eating & Drinking,2006-12-07 13:36:26,16177830313,352135.0,0.0,0.0,Brighton
+Balance Patch,,1031 Commonwealth,Boston,MA,02215,Active,FS,Eating & Drinking,2016-11-16 10:19:46,10000000000,414826.0,0.0,0.0,Fenway/Kenmore
+Bambu,,287 Adams,Dorchester,MA,02122,Active,FS,Eating & Drinking,2016-12-12 11:23:18,15088084895,421205.0,0.0,0.0,Dorchester
+Billares Colombia,,16 Bennington,East Boston,MA,02128,Active,FS,Eating & Drinking,2013-03-01 12:53:46,16175695740,14624.0,42.37529,-71.0383,East Boston
+Blackbird Doughnuts,,100 High,Boston,MA,02110,Active,FT,Eating & Drinking w/ Take Out,2022-04-07 11:15:08,16174829000,342934.0,42.354448,-71.05536,Back Bay
+Blackbird Doughnuts,,175 Cambridge,Boston,MA,02114,Active,FT,Eating & Drinking w/ Take Out,2020-03-13 10:11:57,16174829000,363091.0,0.0,0.0,Back Bay
+Blue Asia Cafe,,101 Brighton,Allston,MA,02134,Active,FS,Eating & Drinking,2009-10-08 10:36:56,17812673366,20067.0,42.353081,-71.130624,Allston
+Blunch,,59 EAST SPRINGFIELD,BOSTON,MA,02136,Active,FT,Eating & Drinking w/ Take Out,2007-12-05 15:00:08,16179057709,,0.0,0.0,South End
+Boba Me,,1520 Tremont,Mission Hill,MA,02120,Active,FT,Eating & Drinking w/ Take Out,2018-11-20 12:07:02,17815212827,137235.0,42.33221,-71.09977,Mission Hill/Roxbury
+Brendan Behan Pub,,378 Centre,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2007-05-23 13:20:22,16176978964,28013.0,42.32199,-71.10926,Jamaica Plain
+Bukowski Tavern,,50 Dalton,Boston,MA,02115,Active,FS,Eating & Drinking,2020-08-03 09:08:47,16174379999,45832.0,42.347065,-71.085643,Fenway/Kenmore
+Cafe 26,,26 Temple,Boston,MA,02111,Active,FT,Eating & Drinking w/ Take Out,2012-05-17 09:27:31,16175151080,134063.0,42.355396,-71.062051,Chinatown/Financial District
+Caffe Lil Italy,,178 Salem,Boston,MA,02113,Active,FS,Eating & Drinking,2011-01-21 12:48:37,16172271303,121822.0,42.36652,-71.05478,North End
+Casa Verde,,711 Centre,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2015-09-17 15:26:44,10000000000,156387.0,42.311378,-71.114669,Jamaica Plain
+Cinis,,252 Friend,Boston,MA,02114,Active,FT,Eating & Drinking w/ Take Out,2019-10-08 15:44:02,16177569380,60994.0,42.364494,-71.061192,Beacon Hill
+Code 10 Restaurant Cafe,,2 Concord,Roxbury,MA,02118,Active,FS,Eating & Drinking,2014-01-13 08:15:39,16173756333,41759.0,42.33791,-71.07465,South End
+Coreanos,,172 Brighton,Allston,MA,02134,Active,FS,Eating & Drinking,2016-05-20 15:06:23,16177896079,351875.0,0.0,0.0,Allston
+Crudo,,78 Salem,Boston,MA,02113,Active,FS,Eating & Drinking,2014-11-14 13:20:36,16174918050,169396.0,42.363692,-71.05591,North End
+Delicious Yogurt,,4198 Washington,Roslindale,MA,02131,Active,FT,Eating & Drinking w/ Take Out,2014-02-19 08:32:37,10000000000,145150.0,42.28683,-71.12736,Roslindale
+Effie's Kitchen,,37 Poplar,Roslindale,MA,02131,Active,FT,Eating & Drinking w/ Take Out,2015-10-01 11:16:51,16179534825,158211.0,42.286098,-71.129018,Roslindale
+Energize,,1930 Beacon,Boston,MA,02135,Active,FT,Eating & Drinking w/ Take Out,2022-03-07 10:07:28,17812907769,411193.0,0.0,0.0,Fenway/Kenmore
+Energize,,265 Massachusetts,Boston,MA,02115,Active,FS,Eating & Drinking,2017-12-28 11:02:00,17812907769,365131.0,0.0,0.0,Fenway/Kenmore
+Energize,,610 Washington,Brighton,MA,02135,Active,FS,Eating & Drinking,2015-12-22 11:13:38,17812907769,143653.0,42.35044,-71.16784,Fenway/Kenmore
+Espresso Yourself,,767 Centre,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2016-11-21 12:39:28,18572225841,163050.0,42.310259,-71.115521,Jamaica Plain
+Ethiopian Cafe,,377 Centre,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2017-07-14 10:10:27,16173196971,343460.0,42.322376,-71.109129,Jamaica Plain
+Felcaro Pizzeria,,276 Cambridge,Boston,MA,02114,Active,FS,Eating & Drinking,2008-04-07 09:04:09,16177420011,25264.0,42.360949,-71.068013,Beacon Hill
+Foumami,,225 Franklin,Boston,MA,02110,Active,FT,Eating & Drinking w/ Take Out,2009-05-14 11:28:51,17189388302,,0.0,0.0,Downtown
+FRANKLIN CAFE,,278 Shawmut,Roxbury,MA,02118,Active,FS,Eating & Drinking,2006-12-07 13:34:49,16173500010,156603.0,42.342938,-71.06889,South End
+Gelato & Chill,,201 Brookline,Boston,MA,02215,Active,FT,Eating & Drinking w/ Take Out,2019-04-09 12:34:16,16177174989,340960.0,42.344649,-71.102201,Fenway/Kenmore
+Habibi's Lounge,,1213 Commonwealth,Allston,MA,02134,Active,FS,Eating & Drinking,2009-01-15 13:44:50,16172302173,37122.0,42.35081,-71.130724,Allston
+Honeycomb Cafe,,107 Savin Hill,Dorchester,MA,02125,Active,FT,Eating & Drinking w/ Take Out,2017-05-08 10:44:00,10000000000,123164.0,42.311608,-71.053998,Dorchester
+Hoshi Ya,,529 Washington,Brighton,MA,02135,Active,FT,Eating & Drinking w/ Take Out,2019-01-16 14:17:02,16172548808,351536.0,0.0,0.0,Brighton
+Jaho Coffee & Tea,,1651 Washington,Roxbury,MA,02118,Active,FT,Eating & Drinking w/ Take Out,2011-03-08 08:40:26,16172361680,144306.0,42.3379,-71.07541,South End
+Jaho Coffee Roaster & Wine Bar,,116 Huntington,Boston,MA,02116,Active,FS,Eating & Drinking,2017-09-15 09:39:38,16172852312,76240.0,42.34651,-71.07976,Chinatown/Financial District
+Jaho Coffee Roaster & Wine Bar,,659 Washington,Boston,MA,02116,Active,FT,Eating & Drinking w/ Take Out,2014-12-05 08:29:47,19782238982,155660.0,42.35183,-71.06321,Chinatown/Financial District
+Java House,,541 Broadway,South Boston,MA,02127,Active,FT,Eating & Drinking w/ Take Out,2021-03-10 14:46:13,16172683117,157314.0,42.335317,-71.042431,South Boston
+Johnny's Takeaway,,168 Spring,West Roxbury,MA,02132,Active,FT,Eating & Drinking w/ Take Out,2017-11-15 11:01:17,17742700448,352347.0,0.0,0.0,West Roxbury
+Kneeland Cafe,,75 Kneeland,Boston,MA,02111,Active,FS,Eating & Drinking,2020-01-02 12:40:31,16179363953,157505.0,42.350178,-71.06061,Chinatown/Financial District
+Laughing Monk Cafe,,737 Huntington,Boston,MA,02115,Active,FS,Eating & Drinking,2017-02-08 11:31:53,16172328000,156156.0,42.334069,-71.105529,Fenway/Kenmore
+Lime Red Tea House,,1092 Commonwealth,Boston,MA,02215,Active,FS,Eating & Drinking,2016-12-05 11:22:28,17186667214,163736.0,42.351738,-71.124257,Fenway/Kenmore
+Limelight Stage & Studios,,60 Boylston,Boston,MA,02116,Active,FS,Eating & Drinking,2018-10-22 08:48:47,16174230785,18358.0,42.35199,-71.06439,Back Bay
+Little Pizza King,,389 Washington,Brighton,MA,02135,Active,FT,Eating & Drinking w/ Take Out,2007-07-07 12:16:15,16177877800,143534.0,42.34929,-71.15484,Brighton
+Lobstah On A Roll,,254 Newbury,Boston,MA,02116,Active,FS,Eating & Drinking,2019-09-26 12:37:14,16174312284,101470.0,42.34931,-71.08274,Back Bay
+Lobstah On A Roll,,537 Columbus,Roxbury,MA,02118,Active,FT,Eating & Drinking w/ Take Out,2017-10-23 14:28:35,10000000000,35917.0,42.3417,-71.08078,Back Bay
+Mattapan House of Pizza,,1621 Blue Hill,Mattapan,MA,02126,Active,FT,Eating & Drinking w/ Take Out,2012-03-09 08:24:48,16172985810,155684.0,42.268453,-71.094131,Mattapan
+Megumi of Japan,,200 Faneuil Hall Marketplace,Boston,MA,02109,Active,FT,Eating & Drinking w/ Take Out,2022-02-18 11:29:10,19086757724,156093.0,42.360199,-71.054798,Downtown/North End
+Mexicali Sushi Bar,,199 Sumner,East Boston,MA,02128,Active,FS,Eating & Drinking,2017-08-25 13:28:55,18572077034,422263.0,0.0,0.0,East Boston
+Midway Cafe,,3496 Washington,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2006-12-07 13:33:55,16175249038,155701.0,42.306223,-71.107469,Jamaica Plain
+Mike & Patty's,,100 High,Boston,MA,02110,Active,FT,Eating & Drinking w/ Take Out,2019-10-16 13:22:09,10000000000,342934.0,42.354448,-71.05536,Back Bay
+Mike & Patty's,,388 Centre,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2021-05-07 10:05:37,10000000000,28019.0,42.32173,-71.10964,Back Bay
+Miyuki Sushi,,547 Washington,Brighton,MA,02135,Active,FS,Eating & Drinking,2016-07-14 10:14:58,16177927694,156340.0,42.349511,-71.16376,Brighton
+Modern Relik,,485 Harrison,Roxbury,MA,02118,Active,FS,Eating & Drinking,2019-04-22 11:36:05,16175133336,69846.0,42.34192,-71.06669,South End
+Molly's Beachside,,165 William J Day,South Boston,MA,02127,Active,FT,Eating & Drinking w/ Take Out,2017-05-30 13:04:15,17742251003,156835.0,42.330089,-71.032158,South Boston
+Monumental Market,,34 South,Jamaica Plain,MA,02130,Active,FT,Eating & Drinking w/ Take Out,2019-03-26 10:30:01,10000000000,128821.0,42.3084,-71.11536,Jamaica Plain
+Neponset Cafe,,400 Neponset,Dorchester,MA,02122,Active,FT,Eating & Drinking w/ Take Out,2018-07-11 13:51:10,16175068008,351027.0,0.0,0.0,Dorchester
+New Ho Toy,,746 Dudley,Dorchester,MA,02124,Active,FT,Eating & Drinking w/ Take Out,2019-07-12 14:51:05,16175147797,156124.0,42.317958,-71.066568,Dorchester
+Papa's Pizza Company,,682 Huntington,Boston,MA,02120,Active,FS,Eating & Drinking,2018-06-21 14:33:40,16176487272,156833.0,42.334854,-71.102439,Fenway/Kenmore
+Perros Paisas,,350 Bennington,East Boston,MA,02128,Active,FT,Eating & Drinking w/ Take Out,2021-02-25 08:54:05,10000000000,155679.0,42.379626,-71.026928,East Boston
+Pete's Dockside,,12 Channel,Boston,MA,02210,Active,FT,Eating & Drinking w/ Take Out,2009-01-06 10:38:17,16174231110,,0.0,0.0,South Boston Waterfront
+Pita Thyme,,112 Water,Boston,MA,02109,Active,FT,Eating & Drinking w/ Take Out,2012-09-13 08:51:59,19784575444,332905.0,42.35819,-71.05486,Downtown/North End
+Playa Bowls,,2193 Commonwealth,Brighton,MA,02135,Active,FT,Eating & Drinking w/ Take Out,2018-11-30 15:21:56,16177800303,39669.0,42.340294,-71.166405,Brighton
+Playa Bowls,,2193 Commonwealth,Brighton,MA,02135,Active,FT,Eating & Drinking w/ Take Out,2018-11-30 15:21:56,16177800303,39669.0,42.340294,-71.166405,Fenway/Kenmore
+Playa Bowls,PB Husky  LLC,277 Huntington,Boston,MA,02115,Active,FS,Eating & Drinking,2019-09-23 14:41:53,16177800303,255002.0,42.34205,-71.08639,Brighton
+Playa Bowls,PB Husky  LLC,277 Huntington,Boston,MA,02115,Active,FS,Eating & Drinking,2019-09-23 14:41:53,16177800303,255002.0,42.34205,-71.08639,Fenway/Kenmore
+Ripple Cafe,,1906 Dorchester,Dorchester,MA,02124,Active,FS,Eating & Drinking,2019-02-06 13:16:43,15088130028,,0.0,0.0,Dorchester
+Rocco's Cucina & Bar,,450 Commercial,Boston,MA,02109,Active,FS,Eating & Drinking,2006-12-07 13:35:31,16175234055,36762.0,42.36732,-71.05335,Downtown/North End
+Rox Diner,,1881 Centre,West Roxbury,MA,02132,Active,FT,Eating & Drinking w/ Take Out,2007-07-19 16:49:14,16173271909,157834.0,42.286043,-71.155668,West Roxbury
+Safari African Restaurant,,1336 Blue Hill,Mattapan,MA,02126,Active,FS,Eating & Drinking,2015-07-09 14:14:39,16172960011,16241.0,42.27806,-71.09314,Mattapan
+Saigon Chicken House,,223 Adams,Dorchester,MA,02122,Active,FS,Eating & Drinking,2018-02-23 09:06:22,16174368888,156041.0,42.301468,-71.060031,Dorchester
+Saigon Fusion,,201 Massachusetts,Boston,MA,02115,Active,FS,Eating & Drinking,2019-05-22 15:15:56,16172361464,352036.0,0.0,0.0,Fenway/Kenmore
+Saigon One Restaurant,,1331 Dorchester,Dorchester,MA,02122,Active,FS,Eating & Drinking,2015-09-24 10:45:00,18576548378,48290.0,42.3052,-71.05917,Dorchester
+Saigon One Restaurant,,1331 Dorchester,Dorchester,MA,02122,Active,FS,Eating & Drinking,2015-09-24 10:45:00,18576548378,48290.0,42.3052,-71.05917,Dorchester
+Scali Deli Cafe,,147 Pearl,Boston,MA,02110,Active,FT,Eating & Drinking w/ Take Out,2007-04-11 16:15:31,16175421965,158265.0,42.35457,-71.053679,Downtown
+Solid Ground Cafe,,742 Huntington,Boston,MA,02115,Active,FT,Eating & Drinking w/ Take Out,2018-06-05 15:12:09,16174875557,366005.0,0.0,0.0,Fenway/Kenmore
+Sushi Kappo,,84 Peterborough,Boston,MA,02115,Active,FT,Eating & Drinking w/ Take Out,2017-06-26 11:32:38,16173727221,168718.0,42.343077,-71.09911,Fenway/Kenmore
+Sushi Today,,1562 Tremont,Mission Hill,MA,02120,Active,FS,Eating & Drinking,2018-06-15 09:10:32,16177380888,137246.0,42.33293,-71.1017,Mission Hill/Roxbury
+Sweet Life Bakery and Cafe,,2243 Dorchester,Dorchester,MA,02124,Active,FS,Eating & Drinking,2012-09-07 08:57:24,10000000000,156564.0,42.273782,-71.06785,Dorchester
+Tawakal Halal Cafe,,389 Maverick,East Boston,MA,02128,Active,FS,Eating & Drinking,2018-07-06 13:38:22,16177852711,93071.0,42.3657,-71.02905,East Boston
+The Avenue Grille,,856 Dorchester,Dorchester,MA,02127,Active,FT,Eating & Drinking w/ Take Out,2018-10-24 11:09:10,16172888000,156742.0,42.321542,-71.056589,Dorchester
+The Corner Tavern,,421 Marlborough,Boston,MA,02115,Active,FS,Eating & Drinking,2006-12-07 13:34:34,16172546633,91385.0,42.35014,-71.08944,Fenway/Kenmore
+The Haven,,401 Centre,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2010-03-04 10:57:56,10000000000,,0.0,0.0,Jamaica Plain
+The Ice Creamsmith,,2295 Dorchester,Dorchester,MA,02124,Active,FT,Eating & Drinking w/ Take Out,2014-01-29 13:29:39,16172968567,156432.0,42.272411,-71.068217,Dorchester
+The Kenmore,,476 Commonwealth,Boston,MA,02215,Active,FS,Eating & Drinking,2020-02-13 14:44:41,16172666662,40988.0,42.34854,-71.09385,Fenway/Kenmore
+Third Cliff Bakery,,3521 Washington,Jamaica Plain,MA,02130,Active,FT,Eating & Drinking w/ Take Out,2019-10-16 14:28:40,16177976072,144947.0,42.30544,-71.10885,Dorchester
+Totto Ramen,,20A District,Dorchester,MA,02125,Active,FS,Eating & Drinking,2018-12-05 12:26:32,16179107114,437351.0,0.0,0.0,Dorchester
+Tu Metapan Restaurant,,295 Bennington,East Boston,MA,02128,Active,FS,Eating & Drinking,2011-11-07 10:16:14,16178186109,14706.0,42.37874,-71.02813,East Boston
+Turtle Swamp Brewing,,3377 Washington,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2018-11-13 11:35:03,16173142952,144911.0,42.30906,-71.10557,Jamaica Plain
+Two Saints Tavern,,54 Gainsborough,Boston,MA,02115,Active,FS,Eating & Drinking,2017-08-09 12:31:35,18572210594,61852.0,42.34177,-71.08728,Fenway/Kenmore
+Umai Japanese Restaurant,,224 Newbury,Boston,MA,02116,Active,FS,Eating & Drinking,2011-06-10 09:41:03,16175367500,101441.0,42.34973,-71.08116,Back Bay
+Union Park Pizza,,1403 Washington,Roxbury,MA,02118,Active,FS,Eating & Drinking,2018-10-19 14:24:43,16178551100,144217.0,42.34129,-71.07032,South End
+Vee Vee,,763 Centre,Jamaica Plain,MA,02130,Active,FS,Eating & Drinking,2008-01-31 15:39:24,16175220145,156219.0,42.310283,-71.11526,Jamaica Plain
+Vejigantes Restaurant,,57 Dedham,Roxbury,MA,02118,Active,FS,Eating & Drinking,2011-12-30 12:41:40,16175150362,341151.0,42.341861,-71.07242,South End
+Villa Mexico Cafe,,41 Broad,Boston,MA,02109,Active,FT,Eating & Drinking w/ Take Out,2014-05-28 13:14:06,16179570725,20468.0,42.35818,-71.05438,Downtown/North End
